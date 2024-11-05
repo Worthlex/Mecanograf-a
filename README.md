@@ -21,11 +21,12 @@ Este proyecto es una aplicación de escritorio en Python que te permite medir tu
    git clone https://github.com/Worthlex/mecanografia.git
    
 2. Asegúrate de tener Python instalado. Ejecuta el programa usando:
-python mecanografia.py
+    ```bash
+    python mecanografia.py
 
-3. Presiona el botón "Iniciar" para comenzar.
-4. Escribe las palabras que aparecen en pantalla y presiona Enter después de cada palabra.
-5. El programa finalizará automáticamente después de un minuto, mostrando tus resultados.
+4. Presiona el botón "Iniciar" para comenzar.
+5. Escribe las palabras que aparecen en pantalla y presiona Enter después de cada palabra.
+6. El programa finalizará automáticamente después de un minuto, mostrando tus resultados.
    
 🎯 Objetivo
 Mejorar la velocidad de escritura en el teclado y la precisión al escribir palabras.
